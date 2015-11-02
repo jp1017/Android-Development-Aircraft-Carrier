@@ -49,6 +49,11 @@ android studio拥有非常丰富的颜色主题可以配置，来这里吧：
 
 [安卓百度地图开发so文件引用失败问题研究 ](http://jp1017.gitcafe.io/2015/09/30/%E5%AE%89%E5%8D%93%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E5%BC%80%E5%8F%91so%E6%96%87%E4%BB%B6%E5%BC%95%E7%94%A8%E5%A4%B1%E8%B4%A5%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6/)
 
+# AS删除多余module
+---
+
+这个见我之前在依百纳写的：[Android Studio中删除多余模块（module）](http://www.ebaina.com/bbs/forum.php?mod=viewthread&tid=8141&extra=page%3D2)
+
 # AS插件
 ---
 
