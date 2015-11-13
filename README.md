@@ -36,7 +36,6 @@ android studio拥有非常丰富的颜色主题可以配置，来这里吧：
 怎么样，适合各种口味，找寻最适合你的吧。
 
 # AS导入jar，so库
----
 
 伸手吧，骚年：
 
@@ -45,19 +44,16 @@ android studio拥有非常丰富的颜色主题可以配置，来这里吧：
 [安卓百度地图开发so文件引用失败问题研究 ](http://jp1017.gitcafe.io/2015/09/30/%E5%AE%89%E5%8D%93%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E5%BC%80%E5%8F%91so%E6%96%87%E4%BB%B6%E5%BC%95%E7%94%A8%E5%A4%B1%E8%B4%A5%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6/)
 
 # AS删除多余module
----
 
 这个见我之前在依百纳写的：[Android Studio中删除多余模块（module）](http://www.ebaina.com/bbs/forum.php?mod=viewthread&tid=8141&extra=page%3D2)
 
 # AS插件
----
 
 来吧，继续：
 
 [Android Studio中常用插件及浅释](http://jp1017.gitcafe.io/2015/09/26/Android-Studio%E4%B8%AD%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6%E5%8F%8A%E6%B5%85%E9%87%8A/)
 
 # Genymotion模拟器
----
 
 comeeeeeeeeeeeeeee：
 
@@ -68,12 +64,10 @@ comeeeeeeeeeeeeeee：
 [3. Eclipse和Android Studio下安装Genymotion模拟器插件](http://jp1017.gitcafe.io/2015/10/18/Eclipse%E5%92%8CAndroid-Studio%E4%B8%8B%E5%AE%89%E8%A3%85Genymotion%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%8F%92%E4%BB%B6/)
 
 # AS与git
----
 
 点我：[git使用之七——Android Studio下git的正确使用](http://jp1017.gitcafe.io/2015/09/20/git%E4%BD%BF%E7%94%A8%E4%B9%8B%E4%B8%83%E2%80%94%E2%80%94Android%20Studio%E4%B8%8Bgit%E7%9A%84%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8/)
 
 # AS与greenDAO
----
 
 准备好了？[Android SQLite ORM框架greenDAO在Android Studio中的配置与使用](http://jp1017.gitcafe.io/2015/09/08/Android-SQLite-ORM%E6%A1%86%E6%9E%B6greenDAO%E5%9C%A8Android%20Studio%E4%B8%AD%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8/)
 
