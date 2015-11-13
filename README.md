@@ -1,5 +1,4 @@
 # 打造安卓开发航空母舰
----
 
 [打造安卓开发航空母舰](https://github.com/jp1017/Android-Development-Aircraft-Carrier)
 
@@ -14,21 +13,17 @@ CSDN：	[蒋朋的家](http://blog.csdn.net/u010331406)
 博客园：	[追风917](http://www.cnblogs.com/jp1017/)
 
 # 工具
----
 
 工具就是[android studio](http://www.androiddevtools.cn/), 你们都懂的，神器，下载、使用技巧、优化、快捷键直接点这里吧：
 [Android Studio下载、使用技巧及快捷键汇总](http://jp1017.gitcafe.io/2015/08/27/Android%20Studio%E4%B8%8B%E8%BD%BD%E3%80%81%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7%E5%8F%8A%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%B1%87%E6%80%BB/)
 
 android studio学习视频来这里下载：
 
-<!--more-->
-
 [1.三小时快速掌握android studio 的使用](http://pan.baidu.com/s/1o65kRwA)
 
 [2.黑马2小时玩转android studio视频](http://yun.baidu.com/s/1sj3Ke2h)
 
 # AS颜色主题
----
 
 android studio拥有非常丰富的颜色主题可以配置，来这里吧：
 
@@ -82,6 +77,14 @@ comeeeeeeeeeeeeeee：
 
 准备好了？[Android SQLite ORM框架greenDAO在Android Studio中的配置与使用](http://jp1017.gitcafe.io/2015/09/08/Android-SQLite-ORM%E6%A1%86%E6%9E%B6greenDAO%E5%9C%A8Android%20Studio%E4%B8%AD%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8/)
 
+# Android Studio 文件模板
+
+[Android Studio 使用之文件模版](http://jp1017.gitcafe.io/2015/10/28/Android-Studio-%E4%BD%BF%E7%94%A8%E4%B9%8B%E6%96%87%E4%BB%B6%E6%A8%A1%E7%89%88/)
+
+# Android Studio 优雅的logcat
+
+[Android Studio美化之优雅的logcat](http://blog.csdn.net/u010331406/article/details/49819999)
+
 
 
 分享是一种美德，更是一种生活方式！！
@@ -89,5 +92,9 @@ comeeeeeeeeeeeeeee：
 enjoy！
 
 悦分享，越快乐^_^
+
+>也许你会说我是一个梦想者，但我不是唯一的一个。
+
+>悦分享，越快乐^_^
 
 欢迎交流，转载请注明出处，谢谢！
