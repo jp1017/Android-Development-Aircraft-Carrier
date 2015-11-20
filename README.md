@@ -14,7 +14,7 @@ CSDN：	[蒋朋的家](http://blog.csdn.net/u010331406)
 
 # 工具
 
-工具就是[android studio](http://www.androiddevtools.cn/), 你们都懂的，神器，下载、使用技巧、优化、快捷键直接点这里吧：
+工具推荐android studio 可以到[androidDevTools](http://www.androiddevtools.cn/)下载, 你们都懂的，神器，下载、使用技巧、优化、快捷键直接点这里吧：
 [Android Studio下载、使用技巧及快捷键汇总](http://jp1017.gitcafe.io/2015/08/27/Android%20Studio%E4%B8%8B%E8%BD%BD%E3%80%81%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7%E5%8F%8A%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%B1%87%E6%80%BB/)
 
 android studio学习视频来这里下载：
