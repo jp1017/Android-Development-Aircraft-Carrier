@@ -55,7 +55,7 @@ android studio拥有非常丰富的颜色主题可以配置，来这里吧：
 
 # Genymotion模拟器
 
-comeeeeeeeeeeeeeee：
+You are welcomed：
 
 [1. 安卓模拟器Genymotion安装、使用及注意事项](http://jp1017.gitcafe.io/2015/10/18/%E5%AE%89%E5%8D%93%E6%A8%A1%E6%8B%9F%E5%99%A8Genymotion%E5%AE%89%E8%A3%85%E3%80%81%E4%BD%BF%E7%94%A8%E5%8F%8A%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/)
 
