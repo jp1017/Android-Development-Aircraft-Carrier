@@ -79,6 +79,8 @@ You are welcomed：
 
 [Android Studio美化之优雅的logcat](http://blog.csdn.net/u010331406/article/details/49819999)
 
+未完，待续。。。
+
 
 
 分享是一种美德，更是一种生活方式！！
