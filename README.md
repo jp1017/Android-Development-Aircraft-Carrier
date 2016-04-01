@@ -12,26 +12,26 @@ CSDN：	[蒋朋的家](http://blog.csdn.net/u010331406)
 
 # 工具
 
-工具推荐android studio 可以到[androidDevTools](http://www.androiddevtools.cn/)下载, 你们都懂的，神器，下载、使用技巧、优化、快捷键直接点这里吧：
+工具推荐 android studio 可以到[androidDevTools](http://www.androiddevtools.cn/)下载, 你们都懂的，神器，下载、使用技巧、优化、快捷键直接点这里吧：
 [Android Studio下载、使用技巧及快捷键汇总](http://jp1017.github.io/2015/12/20/Android-Studio%E4%B8%8B%E8%BD%BD%E3%80%81%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7%E5%8F%8A%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%B1%87%E6%80%BB/)
 
-android studio学习视频来这里下载：
+android studio 学习视频来这里下载：
 
-[1.三小时快速掌握android studio 的使用](http://pan.baidu.com/s/1o65kRwA)
+[1.三小时快速掌 握android studio 的使用](http://pan.baidu.com/s/1o65kRwA)
 
-[2.黑马2小时玩转android studio视频](http://yun.baidu.com/s/1sj3Ke2h)
+[2.黑马2小时玩转 android studio 视频](http://yun.baidu.com/s/1sj3Ke2h)
 
-# android studio 及sdk更新
+# android studio及 sdk 更新
 
-最近总是更新失败，这里提供腾讯bugly的镜像：
+最近总是更新失败，这里提供腾讯 bugly 的镜像：
 
 http://android-mirror.bugly.qq.com:8080/include/usage.html
 
-里面有as更新和sdk更新的配置方法，大家去happy吧
+里面有 as 更新和 sdk 更新的配置方法，大家去 happy 吧
 
 # AS颜色主题
 
-android studio拥有非常丰富的颜色主题可以配置，来这里吧：
+android studio 拥有非常丰富的颜色主题可以配置，来这里吧：
 
 [IDEA Color Themes](http://www.ideacolorthemes.org/themes/?order=downloads&filter=&page=1)
 
@@ -41,13 +41,13 @@ android studio拥有非常丰富的颜色主题可以配置，来这里吧：
 
 怎么样，适合各种口味，找寻最适合你的吧。
 
-# AS导入jar，so库
+# AS 导入jar，so库
 
 伸手吧，骚年：
 
-[Android Studio下添加引用jar文件和so文件](http://jp1017.github.io/2015/12/20/Android-Studio%E4%B8%8B%E6%B7%BB%E5%8A%A0%E5%BC%95%E7%94%A8jar%E6%96%87%E4%BB%B6%E5%92%8Cso%E6%96%87%E4%BB%B6/)
+[Android Studio 下添加引用 jar 文件和 so 文件](http://jp1017.github.io/2015/12/20/Android-Studio%E4%B8%8B%E6%B7%BB%E5%8A%A0%E5%BC%95%E7%94%A8jar%E6%96%87%E4%BB%B6%E5%92%8Cso%E6%96%87%E4%BB%B6/)
 
-[安卓百度地图开发so文件引用失败问题研究 ](http://jp1017.github.io/2015/12/20/%E5%AE%89%E5%8D%93%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E5%BC%80%E5%8F%91so%E6%96%87%E4%BB%B6%E5%BC%95%E7%94%A8%E5%A4%B1%E8%B4%A5%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6/)
+[安卓百度地图开发 so 文件引用失败问题研究 ](http://jp1017.github.io/2015/12/20/%E5%AE%89%E5%8D%93%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E5%BC%80%E5%8F%91so%E6%96%87%E4%BB%B6%E5%BC%95%E7%94%A8%E5%A4%B1%E8%B4%A5%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6/)
 
 # AS删除多余module
 
@@ -57,7 +57,7 @@ android studio拥有非常丰富的颜色主题可以配置，来这里吧：
 
 来吧，继续：
 
-[Android Studio中常用插件及浅释](http://jp1017.github.io/2015/12/20/Android-Studio%E4%B8%AD%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6%E5%8F%8A%E6%B5%85%E9%87%8A/)
+[Android Studio 中常用插件及浅释](http://jp1017.github.io/2015/12/20/Android-Studio%E4%B8%AD%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6%E5%8F%8A%E6%B5%85%E9%87%8A/)
 
 # Genymotion模拟器
 
@@ -67,7 +67,7 @@ You are welcomed：
 
 [2. Win10下Genymotion模拟器开启异常的解决方法](http://www.ebaina.com/bbs/forum.php?mod=viewthread&tid=8384&extra=page%3D2)
 
-[3. Eclipse和Android Studio下安装Genymotion模拟器插件](http://www.ebaina.com/bbs/forum.php?mod=viewthread&tid=8418&extra=page%3D1)
+[3. Eclipse 和 Android Studio 下安装 Genymotion 模拟器插件](http://www.ebaina.com/bbs/forum.php?mod=viewthread&tid=8418&extra=page%3D1)
 
 # AS与git
 
@@ -79,11 +79,11 @@ You are welcomed：
 
 # Android Studio 文件模板
 
-[Android Studio 使用之文件模版](http://jp1017.gitcafe.io/2015/10/28/Android-Studio-%E4%BD%BF%E7%94%A8%E4%B9%8B%E6%96%87%E4%BB%B6%E6%A8%A1%E7%89%88/)
+[<del>Android Studio 使用之文件模版</del>](http://jp1017.gitcafe.io/2015/10/28/Android-Studio-%E4%BD%BF%E7%94%A8%E4%B9%8B%E6%96%87%E4%BB%B6%E6%A8%A1%E7%89%88/)
 
 # Android Studio 优雅的logcat
 
-[Android Studio美化之优雅的logcat](http://jp1017.gitcafe.io/2015/11/17/Android-Studio%E7%BE%8E%E5%8C%96%E4%B9%8B%E4%BC%98%E9%9B%85%E7%9A%84logcat/)
+[Android Studio 美化之优雅的 logcat](http://jp1017.github.io/2015/11/17/Android-Studio%E7%BE%8E%E5%8C%96%E4%B9%8B%E4%BC%98%E9%9B%85%E7%9A%84logcat/)
 
 未完，待续。。。
 
