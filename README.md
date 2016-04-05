@@ -79,7 +79,7 @@ You are welcomed：
 
 # Android Studio 文件模板
 
-[<del>Android Studio 使用之文件模版</del>](http://jp1017.gitcafe.io/2015/10/28/Android-Studio-%E4%BD%BF%E7%94%A8%E4%B9%8B%E6%96%87%E4%BB%B6%E6%A8%A1%E7%89%88/)
+[Android Studio 使用之文件模版](http://jp1017.github.io/2016/04/05/Android-Studio-%E4%BD%BF%E7%94%A8%E4%B9%8B%E6%96%87%E4%BB%B6%E6%A8%A1%E6%9D%BF/)
 
 # Android Studio 优雅的logcat
 
