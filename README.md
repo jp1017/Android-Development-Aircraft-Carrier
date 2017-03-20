@@ -2,7 +2,9 @@
 
 [打造安卓开发航空母舰](https://github.com/jp1017/Android-Development-Aircraft-Carrier)
 
-博客：	[安卓之家](http://jp1017.gitcafe.io/)
+博客：	[安卓之家](http://jp1017.github.io/)
+
+掘金：	[jp1017](http://gold.xitu.io/user/5675e9d560b2f42a127e4916)
 
 微博：	[追风917](http://weibo.com/1321395433/profile?topnav=1&wvr=6)
 
@@ -12,16 +14,16 @@ CSDN：	[蒋朋的家](http://blog.csdn.net/u010331406)
 
 ## 工具
 
-工具推荐 android studio 可以到[androidDevTools](http://www.androiddevtools.cn/)下载, 你们都懂的，神器，下载、使用技巧、优化、快捷键直接点这里吧：
+工具推荐 android studio 可以到 [androidDevTools](http://www.androiddevtools.cn/)下载, 你们都懂的，神器，下载、使用技巧、优化、快捷键直接点这里吧：
 [Android Studio下载、使用技巧及快捷键汇总](http://jp1017.github.io/2015/12/20/Android-Studio%E4%B8%8B%E8%BD%BD%E3%80%81%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7%E5%8F%8A%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%B1%87%E6%80%BB/)
 
 android studio 学习视频来这里下载：
 
-[1.三小时快速掌 握android studio 的使用](http://pan.baidu.com/s/1o65kRwA)
+[1.三小时快速掌 握 android studio 的使用](http://pan.baidu.com/s/1o65kRwA)
 
 [2.黑马2小时玩转 android studio 视频](http://yun.baidu.com/s/1sj3Ke2h)
 
-## android studio及 sdk 更新
+## android studio 及 sdk 更新
 
 最近总是更新失败，这里提供腾讯 bugly 的镜像：
 
@@ -51,7 +53,7 @@ android studio 拥有非常丰富的颜色主题可以配置，来这里吧：
 
 ## AS删除多余module
 
-这个见我之前在依百纳写的：[Android Studio中删除多余模块（module）](http://www.ebaina.com/bbs/forum.php?mod=viewthread&tid=8141&extra=page%3D2)
+这个见我之前在依百纳写的：[Android Studio中删除多余模块(module)](http://www.ebaina.com/bbs/forum.php?mod=viewthread&tid=8141&extra=page%3D2)
 
 ## AS插件
 
@@ -94,15 +96,18 @@ Android Studio 提供的静态代码检测工具 Lint 帮助开发者迅速定�
 
 [安卓注解那些事儿](https://jp1017.github.io/2015/12/20/%E5%AE%89%E5%8D%93%E6%B3%A8%E8%A7%A3%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/)
 
-未完，待续。。。
+## gradle 脚本
 
-安卓开源库收集整理中，欢迎 PR， star，地址：[https://github.com/XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs)
+[https://github.com/XXApple/AndroidLibs/tree/master/gradle](https://github.com/XXApple/AndroidLibs/tree/master/gradle)
+
+
+最后，非常感谢您的阅读，有任何疑问，可以后面评论，谢谢！
+
+神奇的安卓开发网站：[http://androidcat.com/](http://androidcat.com/)
+
+安卓开源库收集整理：[https://github.com/XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs)
 
 分享是一种美德，更是一种生活方式！！
-
-enjoy！
-
-悦分享，越快乐^_^
 
 >也许你会说我是一个梦想者，但我不是唯一的一个。
 
